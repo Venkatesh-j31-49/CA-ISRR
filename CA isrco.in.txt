@@ -1,0 +1,11 @@
+CA isrco.in
+
+-> Home page consists of the 
+   -> Services 
+   -> Slot Booking
+   -> ** Google Drive Api integration 
+   -> One Drive Api Integration
+   -> Customer can login to the page ,after Log In His Dash board Should appear where the his doc files should present , without manually uploading to the customer by admin , instead in admins drive all the files related to lets say cust#1 are placed in the one folder called C#1 , when the c#1 login to the site he can see that the all his related files which stored by admin in c#1 should appear in the site.
+
+
+-> it should ciontain log in and sing off 
